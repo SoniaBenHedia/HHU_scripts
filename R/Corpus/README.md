@@ -3,11 +3,11 @@
 In this folder you find all scripts and the processed data to run the scripts which were used to analyze the corpus data analyzed in 
 PhD-dissertaion. The data was extracted from the Switchboard Corpus (Godfrey, J. J. and Holliman, E. (1997). Switchboard-1 release 2.).
 
-This folder has five subfolderrs:
+This folder has five subfolders:
 
-**Decomposibility:** <p> Here you find csv-files containing the decomposibility information about the affixes words in the study.
-Furthermore, the folder contains the script with the decomposability analyses [combining data frames, analyzing relations between variables
-using correlation testing, analyzing distributions, linear models, conditional inference trees, principal component analyses, multimodel-inferencing].
+**Decomposibility:** 
+><p> Here you find csv-files containing the decomposibility information about the affixes words in the study.
+>Furthermore, the folder contains the script with the decomposability analyses [combining data frames, analyzing relations between variables using correlation testing, analyzing distributions, linear models, conditional inference trees, principal component analyses, multimodel-inferencing].
 
 
 **dis:** 
