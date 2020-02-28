@@ -4,7 +4,7 @@ In this folder you find the scripts I wrote for my PhD project. These scripts re
 
 This is a list of files in this folder:
 
-**1. Cam_textgrids_auslesenWithConsonant.py**		This script is supposed to read textgrids and get information out of it
+**1. Cam_textgrids_auslesenWithConsonant.py** <p>This script is supposed to read textgrids and get information out of it
 
 **2. CamExp_measure_dur_4.py** 		This script is supposed to read textgrids and get information out of it (different info that in 1))
 
