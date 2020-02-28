@@ -1,0 +1,12 @@
+Singular:
+Nom domina
+Gen dominae
+Dat dominae
+Acc dominam
+Abl domina
+Plural:
+Nom dominae
+Gen dominarum
+Dat dominis
+Acc dominas
+Abl dominis
