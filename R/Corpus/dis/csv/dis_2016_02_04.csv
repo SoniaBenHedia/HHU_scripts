@@ -1,0 +1,291 @@
+ItemID,item,PartofSpeechWord,Base,PartofSpeechBase,WordFormFreqSpokenCOCA,BaseFormFreqSpokenCOCA,WordLemmaFreqSpokenCOCA,BaseLemmaFreqSpokenCOCA,BaseFormFreqAllCoca,WordFormFreqAllCoca,WordLemmaFreqAllCoca,BaseLemmaFreqAllCoca,Speaker,Pos,Orthography,SematicTransparency,MorphGeminate,DeletionMorph,DeviantPronun,PauseMorph,AffixStressLongman,AdjSyllableStressLongman,AffixStress,AdjSyllableStress,Compound+AF8-yes+AF8-no,Compound
+163,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2589+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,yes,attention deficit disorders
+19,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2988+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,p,u,p,u,yes,beer distributors
+229,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw3800+AC0-ms98+AC0-a,P,disV,y,no,N,N,N,s,u,s,u,yes,coronary artery disease
+290,Disney,n,NA,NA,1542,NA,1542,NA,NA,9184,9184,NA,sw3614+AC0-ms98+AC0-a,M,disC,n,no,N,Y,N,p,u,p,u,yes,disaster work
+270,dismemberment,n,memberment,n,27,0,27,0,0,253,253,0,sw4159+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,yes,disasters area
+112,disability,n,ability,n,554,6141,1117,6582,49022,6766,17388,56323,sw2799+AC0-ms98+AC0-a,P,disV,y,no,N,N,N,s,u,s,u,yes,discipline problems
+46,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3821+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,yes,discipline problems
+76,district,n,NA,NA,5480,NA,6604,NA,NA,44027,53953,NA,sw3129+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,yes,discipline problems
+199,dissimilated,v,similated,v,0,0,0,0,0,2,0,0,sw2585+AC0-ms98+AC0-a,M,diss,o,yes,V,N,N,d,p,d,p,yes,Discover card
+115,disservice,n,service,n,234,12159,233,18549,92250,730,721,160876,sw4503+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,u,p,d,p,yes,Discover card
+38,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3023+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,yes,Discover card
+285,disappointing,j,NA,NA,542,NA,519,NA,NA,3011,2836,NA,sw4146+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,yes,Discover card
+209,disappeared,v,appeared,v,1920,3332,0,0,35245,13008,0,0,sw2264+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,yes,Discover Magazine
+289,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2732+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,yes,Discovery Channel
+244,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3873+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,yes,dismemberment policy
+282,discussed,v,NA,NA,2624,NA,0,NA,NA,17085,0,NA,sw2130+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,yes,Disney World
+207,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3375+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,yes,garage disposals
+132,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw3151+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,yes,heart disease
+53,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw3010+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,yes,heart disease
+158,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw3507+AC0-ms98+AC0-a,M,disV,n,no,V,N,N,s,u,s,u,yes,learning disabilities
+194,district,n,NA,NA,5480,NA,6604,NA,NA,44027,53953,NA,sw3752+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,yes,learning disability
+191,disappointing,j,NA,NA,542,NA,519,NA,NA,3011,2836,NA,sw3859+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,yes,learning disabled
+67,disappear,v,appear,v,907,4177,3301,12756,34914,7167,25156,107522,sw3803+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,yes,liquor distiller
+99,disciplined,j,NA,NA,463,NA,210,NA,NA,2454,1399,NA,sw2718+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,yes,liquor distiller
+11,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw2638+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,yes,long+AC0-term disability
+151,disgraceful,j,graceful,j,183,172,183,172,2778,459,459,2778,sw4474+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,u,p,d,p,yes,Master's dissertation
+69,discussing,v,NA,NA,1620,NA,0,NA,NA,8138,0,NA,sw2758+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,yes,multi disciplinary
+279,diseases,n,eases,n,1801,36,1,0,732,11052,32,0,sw2826+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,yes,red light district
+102,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw2897+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,s,p,d,p,yes,school district
+125,disappeared,v,appeared,v,1920,3332,0,0,35245,13008,0,0,sw3165+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,yes,school district
+138,Discover,n,cover,n,1150,7843,0,3800,48648,11082,1,24706,sw3781+AC0-ms98+AC0-a,P,disC,?,no,N,N,N,u,p,d,p,yes,school district
+35,disciplinarian,n,NA,NA,52,NA,59,NA,NA,220,283,NA,sw2515+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,s,u,s,u,yes,school districts
+180,discuss,v,NA,NA,4554,NA,8970,NA,NA,20164,48154,NA,sw3388+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,yes,school districts
+242,disappointment,n,NA,NA,702,NA,812,NA,NA,5235,6075,NA,sw2866+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,yes,school districts
+248,disaster,n,NA,NA,4027,NA,4644,NA,NA,13827,16906,NA,sw4687+AC0-ms98+AC0-a,P,disV,n,no,N,N,N,u,p,u,p,yes,school districts
+31,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw2459+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,yes,space disaster
+196,districts,n,NA,NA,1116,NA,0,NA,NA,9870,0,NA,sw4209+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,yes,subway disaster
+143,discuss,v,NA,NA,4554,NA,8970,NA,NA,20164,48154,NA,sw2670+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,yes,ten percent discount
+30,distinctive,j,NA,NA,260,NA,260,NA,NA,5687,5687,NA,sw4445+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,yes,trash disposal
+51,disruptive,j,ruptive,j,235,0,235,0,0,2361,2361,0,sw2407+AC0-ms98+AC0-a,P,disC,o,no,N,N,N,u,p,d,p,no,NA
+122,disposables,n,posables,n,2,0,0,0,0,99,7,0,sw2815+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+150,distributors,n,tributors,n,155,0,0,0,0,1374,2,0,sw4118+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+253,disposals,n,posals,n,2,0,0,0,0,32,0,0,sw2643+AC0-ms98+AC0-a,M,disC,o,no,N,Y,N,u,p,d,p,no,NA
+3,discouraging,j,couraging,j,197,0,121,0,1,1266,726,0,sw3206+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+166,discoveries,n,coveries,n,336,0,0,0,1,3225,1,1,sw2920+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+220,discouraging,j,couraging,j,197,0,121,0,1,1266,726,0,sw2111+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+300,discoveries,n,coveries,n,336,0,0,0,1,3225,1,1,sw3401+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+185,dissenting,j,senting,j,130,0,81,0,2,1063,416,0,sw4261+AC0-ms98+AC0-a,M,diss,o,yes,N,N,N,u,p,d,p,no,NA
+205,distributing,v,tributing,v,235,0,0,0,2,1542,1,0,sw4831+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+41,distracting,j,tracting,j,172,0,47,0,3,1172,296,0,sw4298+AC0-ms98+AC0-a,E,disC,o,no,N,N,N,u,p,d,p,no,NA
+156,disposal,n,posal,n,362,0,364,0,3,4428,4484,3,sw3154+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+293,discouraged,v,couraged,v,361,0,0,0,3,2685,0,1,sw2469+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+267,distributed,v,tributed,v,545,0,0,0,4,7251,0,2,sw4707+AC0-ms98+AC0-a,P,disC,o,no,N,Y,N,u,p,d,p,no,NA
+20,disposable,j,posable,j,185,0,185,0,6,1654,1654,6,sw3128+AC0-ms98+AC0-a,P,disC,o,no,N,N,N,u,p,d,p,no,NA
+34,disposable,j,posable,j,185,0,185,0,6,1654,1654,6,sw2672+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+240,disposable,j,posable,j,185,0,185,0,6,1654,1654,6,sw2071+AC0-ms98+AC0-a,E,disC,o,no,N,N,N,u,p,d,p,no,NA
+294,Discovery,n,covery,n,1969,0,2308,0,6,13435,16677,6,sw2162+AC0-ms98+AC0-a,M,disC,?,no,V,N,N,u,p,d,p,no,NA
+136,distractions,n,tractions,n,155,0,0,0,10,1270,0,0,sw2596+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+23,dispelled,v,pelled,v,30,0,0,0,14,296,0,6,sw2305+AC0-ms98+AC0-a,E,disC,o,no,N,N,N,u,p,d,p,no,NA
+245,disabled,j,abled,j,942,0,812,0,37,7073,6368,12,sw3062+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,u,p,d,p,no,NA
+261,disposer,n,poser,n,2,5,2,10,64,32,44,89,sw3489+AC0-ms98+AC0-a,P,disC,o,no,N,N,N,u,p,d,p,no,NA
+144,disables,v,ables,v,7,8,0,0,167,68,0,0,sw2177+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,u,p,d,p,no,NA
+298,disadvantaged,j,advantaged,j,216,21,207,8,239,2107,2064,103,sw2013+AC0-ms98+AC0-a,M,disV,y,no,N,Y,N,s,u,s,u,no,NA
+106,distiller,n,stiller,n,2,92,12,97,510,71,169,493,sw3544+AC0-ms98+AC0-a,E,diS,o,no,N,N,N,u,p,u,p,no,NA
+198,distiller,n,stiller,n,2,92,12,97,510,71,169,493,sw4039+AC0-ms98+AC0-a,E,diS,o,no,N,N,N,u,p,u,p,no,NA
+13,diseases,n,eases,n,1801,36,1,0,732,11052,32,0,sw3097+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+52,diseases,n,eases,n,1801,36,1,0,732,11052,32,0,sw4364+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+55,diseases,n,eases,n,1801,36,1,0,732,11052,32,0,sw3843+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+81,diseases,n,eases,n,1801,36,1,0,732,11052,32,0,sw4861+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+177,diseases,n,eases,n,1801,36,1,0,732,11052,32,0,sw2957+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+202,diseases,n,eases,n,1801,36,1,0,732,11052,32,0,sw4629+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+265,diseases,n,eases,n,1801,36,1,0,732,11052,32,0,sw3924+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+272,diseases,n,eases,n,1801,36,1,0,732,11052,32,0,sw4305+AC0-ms98+AC0-a,E,disV,o,no,N,N,N,u,p,d,p,no,NA
+101,disorient,v,orient,v,8,104,19,226,1134,71,247,3386,sw2324+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,d,p,d,p,no,NA
+85,disintegrating,v,integrating,v,79,97,0,0,2255,486,0,0,sw4005+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,u,p,d,p,no,NA
+251,disintegrating,v,integrating,v,79,97,0,0,2255,486,0,0,sw4005+AC0-ms98+AC0-a,E,disV,y,no,N,Y,N,u,p,d,p,no,NA
+146,disappearing,v,appearing,v,348,805,0,0,4867,3085,0,0,sw3600+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+274,disappearing,v,appearing,v,348,805,0,0,4867,3085,0,0,sw4114+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+72,dissolved,v,solved,v,172,1314,0,0,4892,2575,0,0,sw2418+AC0-ms98+AC0-a,E,diss,o,yes,N,N,N,u,p,d,p,no,NA
+238,dissolved,v,solved,v,172,1314,0,0,4892,2575,0,0,sw3864+AC0-ms98+AC0-a,M,diss,o,yes,N,N,N,u,p,d,p,no,NA
+59,distribute,v,tribute,v,376,1111,1174,0,4916,2847,11619,0,sw2810+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,u,p,d,p,no,NA
+152,disqualify,v,qualify,v,116,703,292,1758,5299,371,1142,11008,sw4128+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,u,p,d,p,no,NA
+280,dissolving,v,solving,v,62,655,0,0,5539,701,0,0,sw3881+AC0-ms98+AC0-a,M,diss,o,yes,N,Y,N,u,p,d,p,no,NA
+37,disadvantages,n,advantages,n,85,560,0,0,6795,1256,4,8,sw2324+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+100,disadvantages,n,advantages,n,85,560,0,0,6795,1256,4,8,sw4052+AC0-ms98+AC0-a,E,disV,y,no,N,N,N,s,u,s,u,no,NA
+154,disadvantages,n,advantages,n,85,560,0,0,6795,1256,4,8,sw2405+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+155,disadvantages,n,advantages,n,85,560,0,0,6795,1256,4,8,sw4220+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+286,disadvantages,n,advantages,n,85,560,0,0,6795,1256,4,8,sw3635+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+50,disagreements,n,agreements,n,404,1069,0,0,7132,1865,1,0,sw4348+AC0-ms98+AC0-a,M,disV,y,no,V,N,N,s,u,s,u,no,NA
+64,dispose,v,pose,v,177,1018,405,2506,7215,1150,2972,16521,sw4069+AC0-ms98+AC0-a,M,disC,o,no,N,C,N,u,p,d,p,no,NA
+225,disabilities,n,abilities,n,563,439,0,1,7286,10607,11,13,sw3463+AC0-ms98+AC0-a,M,disV,y,no,N,N,Y,s,u,s,u,no,NA
+58,disrepair,n,repair,n,44,1061,47,774,8819,403,401,7675,sw3070+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,s,u,s,u,no,NA
+44,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw4682+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,s,p,d,p,no,NA
+92,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw2897+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,s,p,d,p,no,NA
+135,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw2850+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,s,p,d,p,no,NA
+159,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw3985+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,s,p,d,p,no,NA
+175,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw4235+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,s,p,d,p,no,NA
+176,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw3759+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,s,p,d,p,no,NA
+226,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw2344+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,s,p,d,p,no,NA
+237,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw2814+AC0-ms98+AC0-a,E,diss,y,yes,N,N,N,s,p,d,p,no,NA
+246,dissatisfied,j,satisfied,j,216,1547,216,628,9679,1493,1493,4966,sw3589+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,s,p,d,p,no,NA
+47,discovers,n,covers,n,166,1368,0,1,11667,1555,0,3,sw2113+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,u,p,d,p,no,NA
+8,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw4629+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+54,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw3302+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+75,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw2121+AC0-ms98+AC0-a,E,disV,o,no,N,N,N,u,p,d,p,no,NA
+78,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw4183+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+98,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw4303+AC0-ms98+AC0-a,P,disV,o,no,N,N,N,u,p,d,p,no,NA
+119,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw2724+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+170,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw3097+AC0-ms98+AC0-a,M,disV,o,no,N,Y,N,u,p,d,p,no,NA
+174,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw4303+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+201,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw2731+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+273,disease,n,ease,n,8319,1090,10131,435,11683,46058,57357,6686,sw4629+AC0-ms98+AC0-a,M,disV,o,no,N,N,N,u,p,d,p,no,NA
+45,dissolve,v,solve,v,127,3545,373,5543,12443,2957,6530,21301,sw2815+AC0-ms98+AC0-a,E,diss,o,yes,N,N,N,u,p,d,p,no,NA
+142,dishonest,j,honest,j,363,4845,363,4845,14299,1049,1049,14300,sw4640+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,d,p,d,p,no,NA
+17,disorders,n,orders,n,547,2037,0,0,14689,7562,0,0,sw2701+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,u,p,d,p,no,NA
+227,disorders,n,orders,n,547,2037,0,0,14689,7562,0,0,sw2961+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,u,p,d,p,no,NA
+221,dislikes,n,likes,n,61,2925,0,0,15977,625,0,1,sw2194+AC0-ms98+AC0-a,P,disC,y,no,N,N,N,d,p,d,p,no,NA
+88,disregard,v,regard,v,249,3251,212,2124,16765,1767,1844,17798,sw2700+AC0-ms98+AC0-a,M,disC,y,no,N,C,N,s,u,s,u,no,NA
+147,disregard,n,regard,n,249,3251,127,1094,16765,1767,974,5548,sw2891+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,s,u,s,u,no,NA
+268,disregard,v,regard,v,249,3251,212,2124,16765,1767,1844,17798,sw3597+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,s,u,s,u,no,NA
+93,discharged,v,charged,v,257,5377,0,0,19893,1895,0,0,sw3566+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,u,p,d,p,no,NA
+219,discount,n,count,v,698,5001,723,6467,22656,4987,6135,31076,sw2297+AC0-ms98+AC0-a,M,disC,o,no,N,N,N,p,u,p,u,no,NA
+161,dissolution,n,solution,n,72,4583,73,6120,22944,1171,1193,35227,sw3695+AC0-ms98+AC0-a,M,diss,o,yes,N,N,N,s,u,s,u,no,NA
+213,dissolution,n,solution,n,72,4583,73,6120,22944,1171,1193,35227,sw4903+AC0-ms98+AC0-a,M,diss,o,yes,N,N,N,s,u,s,u,no,NA
+224,dissolution,n,solution,n,72,4583,73,6120,22944,1171,1193,35227,sw4903+AC0-ms98+AC0-a,M,diss,o,yes,N,N,Y,s,u,s,u,no,NA
+49,disadvantage,n,advantage,n,323,3813,409,4370,25050,2371,3634,31855,sw2316+AC0-ms98+AC0-a,P,disV,y,no,N,N,N,s,u,s,u,no,NA
+193,disadvantage,n,advantage,n,323,3813,409,4370,25050,2371,3634,31855,sw4060+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+218,disadvantage,n,advantage,n,323,3813,409,4370,25050,2371,3634,31855,sw2883+AC0-ms98+AC0-a,E,disV,y,no,N,N,N,s,u,s,u,no,NA
+9,discovered,v,covered,v,4250,4419,0,0,31474,27702,0,0,sw2785+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,u,p,d,p,no,NA
+26,discovered,v,covered,v,4250,4419,0,0,31474,27702,0,0,sw3479+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,u,p,d,p,no,NA
+65,discovered,v,covered,v,4250,4419,0,0,31474,27702,0,0,sw2089+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,u,p,d,p,no,NA
+195,discovered,v,covered,v,4250,4419,0,0,31474,27702,0,0,sw3569+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,u,p,d,p,no,NA
+287,distrust,n,trust,n,283,6930,205,2857,31605,1941,1433,16500,sw2230+AC0-ms98+AC0-a,P,disC,y,no,N,N,N,d,p,d,p,no,NA
+1,disappears,v,appears,v,247,4442,0,0,32500,2927,0,0,sw4091+AC0-ms98+AC0-a,E,disV,y,no,N,N,Y,s,u,s,u,no,NA
+97,disagreement,n,agreement,n,877,7854,1281,8929,32844,3220,5087,40116,sw2302+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+264,disappeared,v,appeared,v,1920,3332,0,0,35245,13008,0,0,sw2913+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+71,disarm,v,arm,v,487,2815,792,1282,39427,1027,2063,5719,sw2252+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,u,p,d,p,no,NA
+15,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw2246+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+118,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw2921+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+121,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw3685+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+133,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw3642+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+165,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw2853+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+197,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw2221+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+263,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw2818+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+275,disagree,v,agree,v,4515,19564,5593,27507,40882,9376,13428,83001,sw3275+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+4,Discover,n,cover,n,1150,7843,0,3800,48648,11082,1,24706,sw2447+AC0-ms98+AC0-a,M,disC,?,no,N,N,N,u,p,d,p,no,NA
+108,Discover,n,cover,n,1150,7843,0,3800,48648,11082,1,24706,sw3983+AC0-ms98+AC0-a,M,disC,?,no,N,N,N,u,p,d,p,no,NA
+123,Discover,n,cover,n,1150,7843,0,3800,48648,11082,1,24706,sw3589+AC0-ms98+AC0-a,P,disC,?,no,N,N,N,u,p,d,p,no,NA
+129,Discover,n,cover,n,1150,7843,0,3800,48648,11082,1,24706,sw2447+AC0-ms98+AC0-a,M,disC,?,no,N,N,N,u,p,d,p,no,NA
+141,discover,v,cover,v,1150,7843,5926,12789,48648,11082,43691,76463,sw4381+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,u,p,d,p,no,NA
+162,Discover,n,cover,n,1150,7843,0,3800,48648,11082,1,24706,sw2682+AC0-ms98+AC0-a,M,disC,?,no,N,N,N,u,p,d,p,no,NA
+223,Discover,n,cover,n,1150,7843,0,3800,48648,11082,1,24706,sw3180+AC0-ms98+AC0-a,M,disC,?,no,N,N,N,u,p,d,p,no,NA
+292,Discover,n,cover,n,1150,7843,0,3800,48648,11082,1,24706,sw3781+AC0-ms98+AC0-a,M,disC,?,no,N,N,N,u,p,d,p,no,NA
+124,disability,n,ability,n,554,6141,1117,6582,49022,6766,17388,56323,sw2706+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+247,disability,n,ability,n,554,6141,1117,6582,49022,6766,17388,56323,sw3062+AC0-ms98+AC0-a,M,disV,y,no,N,N,N,s,u,s,u,no,NA
+114,dissimilar,j,similar,j,35,5599,35,5599,58547,615,615,58547,sw2344+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,d,p,d,p,no,NA
+230,dissimilar,j,similar,j,35,5599,35,5599,58547,615,615,58547,sw2470+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,d,p,d,p,no,NA
+243,dissimilar,j,similar,j,35,5599,35,5599,58547,615,615,58547,sw2433+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,d,p,d,p,no,NA
+28,discolor,v,color,v,6,4574,0,483,81032,76,0,6145,sw2814+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,d,p,d,p,no,NA
+281,disservice,n,service,n,234,12159,233,18549,92250,730,721,160876,sw2413+AC0-ms98+AC0-a,M,diss,y,yes,N,N,N,u,p,d,p,no,NA
+128,dislike,v,like,v,404,242020,468,67172,861664,2284,3056,198538,sw3418+AC0-ms98+AC0-a,M,disC,y,no,N,N,N,d,p,d,p,no,NA
+231,dislike,v,like,v,404,242020,468,67172,861664,2284,3056,198538,sw2995+AC0-ms98+AC0-a,P,disC,y,no,N,N,N,d,p,d,p,no,NA
+2,disciplinary,j,NA,NA,187,NA,187,NA,NA,2455,2455,NA,sw4503+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+5,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2775+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+6,disasters,n,NA,NA,603,NA,7,NA,NA,3053,14,NA,sw2054+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,u,p,u,p,no,NA
+7,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2291+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+10,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2727+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+12,disasters,n,NA,NA,603,NA,7,NA,NA,3053,14,NA,sw2704+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,u,p,u,p,no,NA
+16,discuss,v,NA,NA,4554,NA,8970,NA,NA,20164,48154,NA,sw2486+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+18,disappoints,v,NA,NA,24,NA,0,NA,NA,140,0,NA,sw3917+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+21,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2296+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+22,disciplining,v,NA,NA,56,NA,0,NA,NA,353,0,NA,sw2960+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+24,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2988+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+25,disastrous,j,NA,NA,446,NA,446,NA,NA,2769,2769,NA,sw2697+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,u,p,u,p,no,NA
+29,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw3231+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+32,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3465+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+33,disturbs,v,NA,NA,108,NA,0,NA,NA,462,0,NA,sw2967+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,d,p,no,NA
+36,dissertation,n,NA,NA,49,NA,52,NA,NA,1846,2228,NA,sw2334+AC0-ms98+AC0-a,M,diss,n,maybe,N,N,N,s,u,s,u,no,NA
+39,district,n,NA,NA,5480,NA,6604,NA,NA,44027,53953,NA,sw2597+AC0-ms98+AC0-a,P,disC,n,no,N,N,N,p,u,p,u,no,NA
+40,disappointing,j,NA,NA,542,NA,519,NA,NA,3011,2836,NA,sw2198+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+42,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw4377+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+43,dissertation,n,NA,NA,49,NA,52,NA,NA,1846,2228,NA,sw2738+AC0-ms98+AC0-a,M,diss,n,maybe,N,N,N,s,u,s,u,no,NA
+48,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3375+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+56,dissipate,v,NA,NA,52,NA,147,NA,NA,589,1653,NA,sw2187+AC0-ms98+AC0-a,M,diss,n,maybe,N,N,N,p,u,p,u,no,NA
+57,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3785+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+60,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4281+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+61,disaster,n,NA,NA,4027,NA,4644,NA,NA,13827,16906,NA,sw3879+AC0-ms98+AC0-a,M,disV,n,no,V,N,N,u,p,u,p,no,NA
+62,district,n,NA,NA,5480,NA,6604,NA,NA,44027,53953,NA,sw4811+AC0-ms98+AC0-a,M,disC,n,no,N,CC,N,p,u,p,u,no,NA
+63,disaster,n,NA,NA,4027,NA,4644,NA,NA,13827,16906,NA,sw3640+AC0-ms98+AC0-a,M,disV,n,no,N,C,N,u,p,u,p,no,NA
+66,discussion,n,NA,NA,6111,NA,7898,NA,NA,32096,42856,NA,sw4128+AC0-ms98+AC0-a,P,disC,n,no,N,N,N,u,p,u,p,no,NA
+70,discern,v,NA,NA,122,NA,136,NA,NA,1824,2557,NA,sw4770+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,u,p,u,p,no,NA
+73,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3785+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+74,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4162+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+77,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3375+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+79,disciplinarian,n,NA,NA,52,NA,59,NA,NA,220,283,NA,sw2347+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,s,u,s,u,no,NA
+80,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw3555+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+82,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2223+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+83,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2087+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+84,dissertation,n,NA,NA,49,NA,52,NA,NA,1846,2228,NA,sw2980+AC0-ms98+AC0-a,M,diss,n,maybe,N,N,N,s,u,s,u,no,NA
+86,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2197+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+87,discussion,n,NA,NA,6111,NA,7898,NA,NA,32096,42856,NA,sw4161+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+89,Disneyland,n,NA,NA,200,NA,201,NA,NA,1056,1059,NA,sw2189+AC0-ms98+AC0-a,E,disC,n,no,N,N,N,p,u,p,u,no,NA
+90,distances,n,NA,NA,196,NA,0,NA,NA,3655,5,NA,sw2337+AC0-ms98+AC0-a,P,disC,n,no,N,N,N,p,u,p,u,no,NA
+91,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2427+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+94,District,n,NA,NA,5480,NA,6604,NA,NA,44027,53953,NA,sw2040+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+95,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw2141+AC0-ms98+AC0-a,P,disV,n,no,N,N,N,s,u,s,u,no,NA
+96,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3982+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+103,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4147+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+104,disciplined,j,NA,NA,463,NA,210,NA,NA,2454,1399,NA,sw2455+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+105,disappointment,n,NA,NA,702,NA,812,NA,NA,5235,6075,NA,sw4809+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+107,district,n,NA,NA,5480,NA,6604,NA,NA,44027,53953,NA,sw4209+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+109,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4826+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+110,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw2072+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+113,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3982+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+116,discernment,n,NA,NA,20,NA,20,NA,NA,441,447,NA,sw2232+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,u,p,u,p,no,NA
+117,discussed,v,NA,NA,2624,NA,0,NA,NA,17085,0,NA,sw2749+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+120,disappointing,j,NA,NA,542,NA,519,NA,NA,3011,2836,NA,sw4303+AC0-ms98+AC0-a,P,disV,n,no,N,N,N,s,u,s,u,no,NA
+126,district,n,NA,NA,5480,NA,6604,NA,NA,44027,53953,NA,sw3433+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+127,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4162+AC0-ms98+AC0-a,E,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+130,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw2413+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+131,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3078+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+134,disappointing,j,NA,NA,542,NA,519,NA,NA,3011,2836,NA,sw3659+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+137,disseminated,v,NA,NA,67,NA,0,NA,NA,701,0,NA,sw2349+AC0-ms98+AC0-a,M,diss,n,maybe,V,N,N,u,p,u,p,no,NA
+139,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2630+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+140,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3023+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+145,disciplinarians,n,NA,NA,7,NA,1,NA,NA,62,2,NA,sw2869+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,s,u,s,u,no,NA
+148,disciples,n,NA,NA,111,NA,0,NA,NA,1694,6,NA,sw2260+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,u,p,u,p,no,NA
+149,disappointing,j,NA,NA,542,NA,519,NA,NA,3011,2836,NA,sw3504+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+153,disastrous,j,NA,NA,446,NA,446,NA,NA,2769,2769,NA,sw3796+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,u,p,u,p,no,NA
+157,disaster,n,NA,NA,4027,NA,4644,NA,NA,13827,16906,NA,sw3528+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,u,p,u,p,no,NA
+160,districts,n,NA,NA,1116,NA,0,NA,NA,9870,0,NA,sw3745+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+167,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw2253+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+168,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2988+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+169,disappointment,n,NA,NA,702,NA,812,NA,NA,5235,6075,NA,sw3762+AC0-ms98+AC0-a,P,disV,n,no,N,N,N,s,u,s,u,no,NA
+171,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4603+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+172,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4147+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+173,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4603+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+178,disciplinary,j,NA,NA,187,NA,187,NA,NA,2455,2455,NA,sw3068+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+179,discussing,v,NA,NA,1620,NA,0,NA,NA,8138,0,NA,sw2395+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+181,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2710+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+183,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3308+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+184,disgusted,j,NA,NA,291,NA,231,NA,NA,1760,1429,NA,sw4769+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+186,disgusted,j,NA,NA,291,NA,231,NA,NA,1760,1429,NA,sw3935+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+187,dismissing,v,NA,NA,108,NA,0,NA,NA,1028,0,NA,sw4038+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+188,disappointing,j,NA,NA,542,NA,519,NA,NA,3011,2836,NA,sw4146+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+189,disgusted,j,NA,NA,291,NA,231,NA,NA,1760,1429,NA,sw2663+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+190,disciplining,v,NA,NA,56,NA,0,NA,NA,353,0,NA,sw2589+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+192,discuss,v,NA,NA,4554,NA,8970,NA,NA,20164,48154,NA,sw2187+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+200,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw3507+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+203,District,n,NA,NA,5480,NA,6604,NA,NA,44027,53953,NA,sw2707+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+204,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2843+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+206,districts,n,NA,NA,1116,NA,0,NA,NA,9870,0,NA,sw2362+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+208,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2589+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+211,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3873+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+212,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw3231+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+214,dissertation,n,NA,NA,49,NA,52,NA,NA,1846,2228,NA,sw4255+AC0-ms98+AC0-a,M,diss,n,maybe,N,N,N,s,u,s,u,no,NA
+215,disasters,n,NA,NA,603,NA,7,NA,NA,3053,14,NA,sw2704+AC0-ms98+AC0-a,M,disV,n,no,V,N,N,u,p,u,p,no,NA
+216,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4293+AC0-ms98+AC0-a,P,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+222,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2383+AC0-ms98+AC0-a,E,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+228,discussing,v,NA,NA,1620,NA,0,NA,NA,8138,0,NA,sw2403+AC0-ms98+AC0-a,P,disC,n,no,N,N,N,u,p,u,p,no,NA
+232,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw2107+AC0-ms98+AC0-a,P,disV,n,no,N,N,N,s,u,s,u,no,NA
+233,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3127+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+234,discussions,n,NA,NA,1781,NA,1,NA,NA,10723,7,NA,sw4010+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+235,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3465+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+236,districts,n,NA,NA,1116,NA,0,NA,NA,9870,0,NA,sw4362+AC0-ms98+AC0-a,M,disC,n,no,N,Y,N,p,u,p,u,no,NA
+239,dissertation,n,NA,NA,49,NA,52,NA,NA,1846,2228,NA,sw4208+AC0-ms98+AC0-a,M,diss,n,maybe,N,N,N,s,u,s,u,no,NA
+241,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3006+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+249,disciplined,j,NA,NA,463,NA,210,NA,NA,2454,1399,NA,sw3331+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+250,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4603+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+252,disappointed,j,NA,NA,1949,NA,1708,NA,NA,8315,7331,NA,sw2509+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,s,u,s,u,no,NA
+254,disastrous,j,NA,NA,446,NA,446,NA,NA,2769,2769,NA,sw3270+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,u,p,u,p,no,NA
+255,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3795+AC0-ms98+AC0-a,P,disC,n,maybe,C,N,N,p,u,p,u,no,NA
+256,disaster,n,NA,NA,4027,NA,4644,NA,NA,13827,16906,NA,sw2190+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,u,p,u,p,no,NA
+257,distant,j,NA,NA,672,NA,672,NA,NA,13355,13355,NA,sw3817+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+258,dissertation,n,NA,NA,49,NA,52,NA,NA,1846,2228,NA,sw2835+AC0-ms98+AC0-a,M,diss,n,maybe,N,N,N,s,u,s,u,no,NA
+259,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw3821+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+260,disappointing,j,NA,NA,542,NA,519,NA,NA,3011,2836,NA,sw2241+AC0-ms98+AC0-a,P,disV,n,no,N,N,N,s,u,s,u,no,NA
+262,disciplined,j,NA,NA,463,NA,210,NA,NA,2454,1399,NA,sw3808+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+266,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2050+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+269,districts,n,NA,NA,1116,NA,0,NA,NA,9870,0,NA,sw2869+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+271,districts,n,NA,NA,1116,NA,0,NA,NA,9870,0,NA,sw4262+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+276,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2362+AC0-ms98+AC0-a,E,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+277,disappointing,j,NA,NA,542,NA,519,NA,NA,3011,2836,NA,sw4809+AC0-ms98+AC0-a,M,disV,n,no,V,N,N,s,u,s,u,no,NA
+278,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw2970+AC0-ms98+AC0-a,M,disC,n,maybe,N,Y,N,p,u,p,u,no,NA
+283,district,n,NA,NA,5480,NA,6604,NA,NA,44027,53953,NA,sw2585+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,p,u,p,u,no,NA
+288,discernment,n,NA,NA,20,NA,20,NA,NA,441,447,NA,sw2235+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,u,p,u,p,no,NA
+291,discipline,n,NA,NA,1501,NA,1589,NA,NA,12340,16884,NA,sw4162+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
+295,disaster,n,NA,NA,4027,NA,4644,NA,NA,13827,16906,NA,sw4288+AC0-ms98+AC0-a,M,disV,n,no,N,N,N,u,p,u,p,no,NA
+297,discuss,v,NA,NA,4554,NA,8970,NA,NA,20164,48154,NA,sw3786+AC0-ms98+AC0-a,M,disC,n,no,N,N,N,u,p,u,p,no,NA
+299,disciplinary,j,NA,NA,187,NA,187,NA,NA,2455,2455,NA,sw3375+AC0-ms98+AC0-a,M,disC,n,maybe,N,N,N,p,u,p,u,no,NA
