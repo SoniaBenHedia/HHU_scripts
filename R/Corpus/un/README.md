@@ -1,4 +1,4 @@
-##un##
+## un
 
 Here you find csv-files containing the information about the un-affixed words in the study.
 Furthermore, the folder contains two scripts in which the durations of the boundary-adjacent segment are analyzed.
