@@ -9,4 +9,4 @@ The folders are:
 
 **2. Experiment** 
 
-Please refer to the ReadMe-files in the pertinent folders.
+Please refer to the ReadMe-files in the pertinent folders for more information.
