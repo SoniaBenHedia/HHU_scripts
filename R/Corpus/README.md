@@ -1,7 +1,7 @@
 # Corpus
 
-In this folder you find all scripts and the processed data to run the scripts which were used to analyze the corpus data analyzed in 
-PhD-dissertaion. The data was extracted from the Switchboard Corpus (Godfrey, J. J. and Holliman, E. (1997). Switchboard-1 release 2.).
+In this folder you find all scripts and the processed data to run the scripts which were used to analyze the corpus data analyzed in my
+PhD-dissertation. The data was extracted from the Switchboard Corpus (Godfrey, J. J. and Holliman, E. (1997). Switchboard-1 release 2.).
 
 This folder has five subfolders:
 
