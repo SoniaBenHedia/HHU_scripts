@@ -10,7 +10,7 @@ This folder has three subfolders:
 ><p>Furthermore, the folder contains the script with the decomposability analyses [combining data frames, analyzing relations between variables using correlation testing, analyzing distributions, cluster analyses].
 
 **2. Duration:** 
-><p>This folder contains six subfolders. Each subfolder contains the data set and scripts for the analyses of one of the investigated affixes. As I also conducted one analyses in which un- and in- were analyzed in one model, there is also a subfolder for this data set/ analysis.
+><p>This folder contains six subfolders. Each subfolder contains the data set and scripts for the analyses of one of the investigated affixes. As I also conducted one analyses in which un- and in- were analyzed in one model, there is also a subfolder for this data set/ analysis. the subfolders are listed below.
 
 ><p> 2.1. dis
 ><p> 2.2. im
