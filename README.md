@@ -1,6 +1,6 @@
 # HHU_scripts
 
-This folder entails scripts I wrote and used during my time at the Heinrich-Heine-University,Düsseldorf, while working in der DFG funded research unit 'Spoken Morphology' (FOR2373). 
+This repository entails scripts I wrote and used during my time at the Heinrich-Heine-University,Düsseldorf, while working in der DFG funded research unit 'Spoken Morphology' (FOR2373). 
 
 There are four folders
 
